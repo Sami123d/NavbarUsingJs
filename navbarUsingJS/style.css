@@ -1,0 +1,25 @@
+.navbar{
+    padding: 20px;
+    background-color: #ffffff;
+}
+#ide{
+    color:blue;
+}
+body{
+    background-color: #eef4fa !important;
+}
+
+/* .tooglerr{
+    display: none;
+}
+@media screen and (max-width: 890px) {
+    .center-nav{
+        display: none !important;
+    }
+    .right-nav{
+        display: none !important;
+    }
+    .tooglerr{
+        display: block;
+    }
+} */

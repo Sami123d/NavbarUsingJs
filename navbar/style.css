@@ -1,0 +1,38 @@
+body{
+    background-color:#eef4fa;
+    margin: 0;
+}
+.toogler-nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.left-nav{
+    height: 100vh;
+    background-color: #ffff;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: absolute;
+    left: -300px;
+   
+}
+.logo{
+    margin: 0;
+}
+.logoORCloseBtn{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+}
+.ul-nav{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-size: 20px;
+}
+.right-nav{
+    display: flex;
+    justify-content: space-evenly;
+}
